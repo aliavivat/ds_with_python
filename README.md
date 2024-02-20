@@ -25,3 +25,13 @@
 
   2.4 Introduction to data modeling and machine learning approaches
 ```
+```
+5 Classification models
+
+  5.2 KNN Classification
+
+  5.5 Decision Tree Model
+```
+```
+6 Classification of a Worked Example
+```
